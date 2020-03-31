@@ -1,0 +1,31 @@
+#,Item,Qty for single,Qty to split,Vendor(s),Price/Unit,Description
+1,22mmF x 22mmF connector,3,8,Ikaria (80328),-,
+,,,,GlobalMed Inc (I2222),-,
+,,,,InterSurgical (196-7000),-,
+2,Ventilator T piece,0,2,Hull Anesthesia (1981),$0.97,"22M sides, 22F base. Does not require item #1 to connect to ventilator"
+,,,,HEYMED Supply (15003900),$0.27,"22M sides, 15F/22M base. Type used in video"
+3,22Mmm-22Mmm connector,2,6,Ikaria (1605-3134-000),-,
+,,,,GlobalMed Inc (I2215),-,
+,,,,Vitaly Medical (1422H),$0.43,
+,,,,InterSurgical (1960-6000),-,
+4,One way valve,2,4,Ikaria (1605-3139-000),-,Female-to-male valve (need component 3 between in flow and previous component; type used in video)
+,,,,InterSurgical (1950000),-,"Male-to-male valve, can go directly to T piece (no need for component 3)"
+5,Ball valve,1,2,Lowes - SharkBite ¼” Ball valve (835048),$9.78,
+6,Y piece,1,2,Hull Anesthesia (1926),$0.84,22mm OD x 22mm OD x 15mm ID
+,,,,GlobalMed Inc (I106),-,
+7,HME filter,1,2,A-M Systems,$60.00,"Machine side: 15M/22F (22F goes with 22mm OD of item #6)
+Patient side: 15F/22M"
+8,PEEP valve,1,2,AmbuBag,-,"Requires bag to contain outflow, flow continues through bag"
+,,,,Mainline Medical (8-90##-23),$10.90,Vital sign PEPP/C-PEEP valve (continuous flow)
+,,,,Intersurgical (22#000),-,Vital sign PEPP/C-PEEP valve (continuous flow)
+9,Manometer,1,2,Vitaly Medical (8199),$317.10,Type used in video
+,,,,Mercury Medical (1055356),-,15F/22M to 22F (fits of 22M of item #10)
+10,Pt-manometer T piece,1,2,Hull Anesthesia (1981),$0.97,"22M sides, 22F base. Fits on pt side of HME filter"
+11,Rubber grommet,2,4,Home Depot,$1.51,3/4 in. Neoprene Grommet
+12,Spirometer,1,2,Vitaly Medical (8884719009),$4.70,
+13,Air-tight box,1,2,The Container Store (10058868),$13.99,
+14,0.5” PVC adapter,1,2,Home Depot (301541214),$1.86,0.5” PVC adapter to fit through grommet
+15*,Ventilator circuit (tubing),1,2,Vitaly Medical (RT 114),$25.67,
+16*,Tubing from spirometer to Y piece,1,2,GlobalMed Inc,-,"Corrugated tubing, 22mm ID of appropriate length. Could come with spirometer"
+17,1” hole saw,1,1,Lowes (Item # 348126 Model # 1772481),$10.98,Add to drill to produce 1” hole in air-tight box for grommet
+,,,,Zoro (G8039711),$4.81,
