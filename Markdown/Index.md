@@ -230,6 +230,8 @@ Click [here](https://docs.google.com/spreadsheets/d/1XikdFKNdgZAywoPw4oIWqJ9e0-a
 
 ## Additional Resources
 
+[US Public Health Service guidelines for ventilator splitting](https://www.hhs.gov/sites/default/files/optimizing-ventilator-use-during-covid19-pandemic.pdf)
+
 [Ventilation Sharing Protocol developed by the Columbia University College of Physicians & Surgeons/New York-Presbyterian Hospital (3/24/20)](https://www.gnyha.org/wp-content/uploads/2020/03/Ventilator-Sharing-Protocol-Dual-Patient-Ventilation-with-a-Single-Mechanical-Ventilator-for-Use-during-Critical-Ventilator-Shortages.pdf)
 
 [PulmCrit - Splitting ventilators to provide titrated support to a large group of patients](https://emcrit.org/pulmcrit/split-ventilators/)
